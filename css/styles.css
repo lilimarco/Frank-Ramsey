@@ -1,0 +1,167 @@
+/*--------------Tags--------*/
+
+
+body{
+
+    background-color: #cee5d0;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 3000px;
+}
+h1{
+
+    margin-left: 300px;
+    margin-top: 200px;
+    font-size: 5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #876445;
+
+}
+
+p{
+    margin-left: 350px;
+    margin-top: 30px;
+    font-size: 3em;
+    font-family: sans-serif;
+    color: #ca955c;
+   
+
+}   
+
+
+/*--------------class--------*/
+
+.div-one{
+    height: 1200px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-bottom: 60px;
+    padding-top: 10px;
+
+}
+
+.ramcy-image{
+
+height: 350px;
+width: 350px;
+border-radius: 100%;
+position: relative;
+left: 400px;
+top: 200px;
+
+}
+
+.about-jr{
+
+    font-size: 2em;
+    line-height: 1.5;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    width: 900px;
+    margin-left: 200px;
+    margin-bottom: auto;
+
+
+}
+
+
+.div-two{
+    
+    background-color: #e4f9f5;
+    height: 1000px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-bottom: 60px;
+    padding-top: 10px;  
+    width: 3000px;
+    text-align: center;
+
+}
+
+
+.image-group{
+
+    border-radius: 100%; 
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    left: 600px;
+    top: 1450px;
+
+}
+
+
+.about-group{
+
+    color: black;
+    position: absolute;
+    left: 700px;
+    top: 1470px;
+    text-align: left;
+    line-height: 2;
+    font-size: 2em;
+    width: 1000px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+.about-play{
+
+    color: black;
+    line-height: 2;
+    font-size: 2em;
+    width: 1000px;
+    position: absolute;
+    top: 1900px;
+    right: 1050px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image-play{
+
+    border-radius: 100%; 
+    height: 400px;
+    width: 400px;
+    position: absolute;
+    right: 600px;
+    top: 1925px;
+    text-align: right;
+}
+
+
+
+.p1{
+
+    text-align: left;
+
+}
+/*.div-three{ 
+
+    width: 3000px;
+    background-color: #cee5d0;
+    height: 300px;
+    gap: 0;
+    
+    
+
+}
+*/
+
+.p2{
+
+    padding-left: 600px;
+    padding-top: 30px;
+
+}
+
+.btn{
+
+    padding-left: 800px;
+
+}
