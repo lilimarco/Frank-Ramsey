@@ -118,7 +118,7 @@ top: 200px;
     width: 1000px;
     position: absolute;
     top: 1900px;
-    right: 950px;
+    left: 450px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -128,7 +128,7 @@ top: 200px;
     height: 400px;
     width: 400px;
     position: absolute;
-    right: 525px;
+    left: 1825px;
     top: 1925px;
     text-align: right;
 }
@@ -145,7 +145,7 @@ top: 200px;
     width: 3000px;
     background-color: #cee5d0;
     height: 300px;
-    gap: 0;
+    gap: 0;.
     
     
 
