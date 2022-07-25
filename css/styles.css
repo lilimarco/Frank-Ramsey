@@ -4,11 +4,6 @@
 body{
 
     background-color: #cee5d0;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    width: 3000px;
 }
 h1{
 
@@ -34,12 +29,16 @@ p{
 /*--------------class--------*/
 
 .div-one{
+    background-image: url(flower.png);
+    background-repeat: no-repeat;
+    background-size: 3000px 1400px;
     height: 1200px;
     margin-bottom: 0px;
     margin-top: 0px;
     margin-left: 0px;
     padding-bottom: 60px;
     padding-top: 10px;
+    
 
 }
 
@@ -78,7 +77,7 @@ top: 200px;
     margin-left: 0px;
     padding-bottom: 60px;
     padding-top: 10px;  
-    width: 3000px;
+    width: 3000px; 
     text-align: center;
 
 }
@@ -119,7 +118,7 @@ top: 200px;
     width: 1000px;
     position: absolute;
     top: 1900px;
-    right: 1050px;
+    right: 3550px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -129,7 +128,7 @@ top: 200px;
     height: 400px;
     width: 400px;
     position: absolute;
-    right: 600px;
+    right: 3125px;
     top: 1925px;
     text-align: right;
 }
